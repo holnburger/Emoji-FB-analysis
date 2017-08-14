@@ -1,4 +1,5 @@
-# load packages and set options
+# most of the script written by Jessica Peterka-Bonetta
+# check it out on https://github.com/today-is-a-good-day/emojis/blob/master/emoji_analysis.R
 options(stringsAsFactors = FALSE)
 library(dplyr)
 library(stringr)
